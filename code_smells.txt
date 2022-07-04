@@ -1,0 +1,69 @@
+1 - nomes estranhos
+
+dist, d (variáveis)
+calc (método)
+
+renomear variáveis
+renomear métodos
+renomear arquivos
+renomear classes
+renomear pastas
+
+2 - números mágicos
+
+22, 3.90, 2.9, 2.10, 0, 10
+
+extrair constantes
+
+3 - comentários
+
+// calculate ride
+// overnight
+// sunday
+
+introduzir variáveis explicativas
+extrair métodos
+apagar comentários
+
+4 - código morto
+
+// console.log(dist, d);
+
+apagar código comentado
+
+5 - linhas em branco
+
+apagar linhas em banco
+
+6 - retornos estranhos
+
+return -1;
+
+substituir código de erro por exception
+substituir código de erro por objeto de resultado
+
+7 - condições confusas
+
+remover condições aninhadas por cláusulas guarda
+consolidar expressão condicional
+introduzir ternário
+
+8 - método longo
+
+extrair método
+
+9 - falta de tratamento de exceptions
+
+tratar exceptions adequadamente
+não silenciar exceptions
+incluir informações para tratamento
+
+10 - longa lista de parâmetros
+
+introduzir objeto parâmetro
+extrair classe e mover o método com muitos parâmetros para ela
+
+11 - classes grandes
+
+extrair classe
+mover método
