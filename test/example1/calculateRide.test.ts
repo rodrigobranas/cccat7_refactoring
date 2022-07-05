@@ -1,4 +1,4 @@
-import { calculateRide } from "../src/calculateRide";
+import { calculateRide } from "../../src/example1/calculateRide";
 
 test("Deve calcular o valor da corrida de uma corrida normal", function () {
 	const segments = [{ distance: 10, date: new Date("2021-03-01T10:00:00") }];
